@@ -12,3 +12,9 @@ git commit -m "TrungLe"
 git push origin master
 
 systax: git pull
+
+
+https://mysql8.db4free.net/
+
+db4free.net
+-P 3307
